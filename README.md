@@ -1,4 +1,4 @@
-## Memories - Social Media App
+## Memories - Social Media App (Backend)
 An application for creating memories and sharing with your friends.
 Here is the backend of the social media app.
 
