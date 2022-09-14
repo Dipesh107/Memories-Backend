@@ -2,7 +2,7 @@
 An application for creating memories and sharing with your friends.
 Here is the backend of the social media app.
 
-## Live Demo at https://memories-frontend-chi.vercel/
+## Live Demo at https://memories-frontend-chi.vercel.app/posts
 
 ## Project Screen Shots
 ![image](https://user-images.githubusercontent.com/71844445/190237449-0ddd6577-5771-46b5-ab1c-891b34da288c.png)
