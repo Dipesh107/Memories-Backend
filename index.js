@@ -17,6 +17,10 @@ app.use(cors());
 app.use("/posts", postRoutes);
 app.use("/user", userRouter);
 
+app.get("/", (req, res) => {
+  res.send("APP IS RUNNING...");
+});
+
 const CONNECTION_URL = process.env.REACT_APP_CONNECTION_URI;
 const PORT = process.env.PORT || process.env.REACT_APP_CONNECTION_PORT;
 
