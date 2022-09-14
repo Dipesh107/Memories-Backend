@@ -15,7 +15,7 @@ Here is the backend of the social media app.
 
 #### Example:  
 
-Clone down this repository. Using `git clone https://github.com/Dipesh107/Memories-frontend.git`.
+Clone down this repository. Using `git clone https://github.com/Dipesh107/Memories-Backend.git`.
 You will need `node` and `npm` installed globally on your machine.
 
 After cloning folder named `server` will be created and you need to move to that folder using command `cd server`.
