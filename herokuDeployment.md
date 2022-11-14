@@ -1,3 +1,4 @@
+## Link for the article https://sweetcode.io/deploying-express-node-js-backend-heroku/
 Step 1: Preparing the codebase for Heroku
 Now that we have the base code for the application, we need to make a few changes to the package.json file to enable deployment to Heroku.
 
@@ -39,17 +40,20 @@ Step 2: Testing Heroku locally
 
 
 
-3. Open up localhost:5000 in your browser to see the result:
+4. Open up localhost:5000 in your browser to see the result:
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/88828825/201579869-c5074024-1d42-4489-b80b-f01214b0486a.png">
 
 
 
 Step 3: Deploying to Heroku
 1. Run heroku create [chosen name of your project] to create the Heroku app.
 2. Run git push heroku master to push the code to the Heroku servers.
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/88828825/201579998-f34d104a-8bf0-4959-8348-fc7eebe38d75.png">
 
 
 
 After the process is complete, visit the Heroku link for your newly deployed app (which should be printed near the bottom of the output).
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/88828825/201580052-8b835f14-b808-4ec6-8d0e-83ce65be2d84.png">
 
 
 
